@@ -2,6 +2,7 @@
 from server.apiserver import ApiServer, ApiRoute, ApiError, ApiHandler
 import json
 import logging
+logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class MyServer(ApiServer):
@@ -70,4 +71,4 @@ if __name__ == '__main__':
     if len(argv) == 2:
         MyServer("127.0.0.1",argv[1]).serve_forever()
     else:
-        MyServer("127.0.0.1", 8000).serve_forever()
+        MyServer("127.0.0.1", 8001).serve_forever()
