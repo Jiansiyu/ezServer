@@ -1,0 +1,156 @@
+id,category
+stat.TH,Statistics Theory
+stat.OT,Other Statistics
+stat.ML,Machine Learning stat
+stat.ME,Methodology
+stat.CO,Computation
+stat.AP,Applications
+q-fin.TR,Trading and Market Microstructure
+q-fin.ST,Statistical Finance
+q-fin.RM,Risk Management
+q-fin.PR,Pricing of Securities
+q-fin.PM,Portfolio Managemen
+q-fin.MF,Mathematical Finance
+q-fin.GN,General Finance
+q-fin.EC,Economics
+q-fin.CP,Computational Finance
+q-bio.TO,Tissues and Organs
+q-bio.SC,Subcellular Processes
+q-bio.QM,Quantitative Methods
+q-bio.PE,Populations and Evolution
+q-bio.OT,Other Quantitative Biology
+q-bio.NC,Neurons and Cognition
+q-bio.MN,Molecular Networks
+q-bio.GN,Genomics
+q-bio.CB,Cell Behavior
+q-bio.BM,Biomolecules
+Quant-ph,Quantum Physics
+physics.space-ph ,Space Physics
+physics.soc-ph,Physics and Society
+physics.pop-ph,Popular Physics
+physics.plasm-ph,Plasma Physics
+physics.optics,Optics
+physics.med-ph ,Medical Physics
+physics.ins-det,Instrumentation and Detectors
+physics.hist-ph,History and Philosophy of Physics
+physics.geo-ph,Geophysics
+physics.gen-ph,General Physics
+physics.flu-dyn,Fluid Dynamics
+physics.ed-ph,Physics Education
+physics.data-an,"Data Analysis, Statistics and Probability"
+physics.comp-ph,Computational Physics
+physics.class-ph,Classical Physics
+physics.chem-ph,Chemical Physics
+physics.bio-ph,Biological Physics
+physics.atom-ph,Atomic Physics
+physics.atm-clus,Atomic and Molecular Clusters
+physics.app-ph,Applied Physics
+physics.ao-ph,Atmospheric and Oceanic Physics
+physics.acc-ph,Accelerator Physics
+Nucl-th,Nuclear Theory
+Nucl-ex,Nuclear Experiment
+nlin.SI,Exactly Solvable and Integrable Systems
+nlin.PS,Pattern Formation and Solitons
+nlin.CG,Cellular Automata and Lattice Gases
+nlin.CD,Chaotic Dynamics
+nlin.AO,Adaptation and Self-Organizing Systems
+Math-ph,Mathematical Physics physics
+Hep-th,High Energy Physics – Theory
+Hep-ph,High Energy Physics – Phenomenolog
+Hep-lat,High Energy Physics – Lattice
+Hep-ex,High Energy Physics – Experiment
+Gr-qc,General Relativity and Quantum Cosmology
+cond-mat.supr-con,Superconductivity
+cond-mat.str-el,Strongly Correlated Electrons
+cond-mat.stat-mech,Statistical Mechanics
+cond-mat.soft,Soft Condensed Matter
+cond-mat.quant-gas,Quantum Gases
+cond-mat.other,Other Condensed Matter
+cond-mat.mtrl-sci ,Materials Science
+cond-mat.mes-hall,Mesoscale and Nanoscale Physics
+cond-mat.dis-nn,Disordered Systems and Neural Networks
+astro-ph.SR,Solar and Stellar Astrophysics
+astro-ph.IM,Instrumentation and Methods for Astrophysics
+astro-ph.HE,High Energy Astrophysical Phenomena
+astro-ph.GA,Astrophysics of Galaxies
+astro-ph.EP,Earth and Planetary Astrophysics
+astro-ph.CO,Cosmology and Nongalactic Astrophysics
+econ.TH,Theoretical Economics
+econ.GN,General Economics
+econ.EM,Econometrics
+math.ST,Statistics Theory math
+math.SP,Spectral Theory
+math.SG,Symplectic Geometry
+math.RT,Representation Theory
+math.RA,Rings and Algebras
+math.QA,Quantum Algebra
+math.PR,Probability
+math.OC,Optimization and Control
+math.OA,Operator Algebras
+math.NT,Number Theory
+math.NA,Numerical Analysis
+math.MP,Mathematical Physics
+math.MG,Metric Geometry
+math.LO,Logic
+math.KT,K-Theory and Homology
+math.IT,Information Theory
+math.HO,History and Overview
+math.GT,Geometric Topology
+math.GR,Group Theory
+math.GN,General Topology
+math.GM,General Mathematics
+math.FA,Functional Analysis
+math.DS,Dynamical Systems
+math.DG,Differential Geometry
+math.CV,Complex Variables
+math.CT,Category Theory
+math.CO,Combinatorics
+math.CA,Classical Analysis and ODEs
+math.AT,Algebraic Topology
+math.AP,Analysis of PDEs
+math.AG,Algebraic Geometry
+math.AC,Commutative Algebra
+eess.SY,Systems and Control eess
+eess.SP,Signal Processing
+eess.IV,Image and Video Processing
+eess.AS,Audio and Speech Processing
+cs.SY,Systems and Control
+cs.SI,Social and Information Networks
+cs.SE,Software Engineering
+cs.SD,Sound
+cs.SC,Symbolic Computation
+cs.RO,Robotics
+cs.PL,Programming Languages
+cs.PF,Performance
+cs.OS,Operating Systems
+cs.OH,Other Computer Science
+cs.NI,Networking and Internet Architecture
+cs.NE,Neural and Evolutionary Computing
+cs.NA,Numerical Analysis cs
+cs.MS,Mathematical Software
+cs.MM,Multimedia
+cs.MA,Multiagent Systems
+cs.LO,Logic in Computer Science
+cs.LG,Machine Learning
+cs.IT,Information Theory cs
+cs.IR,Information Retrieval
+cs.HC,Human-Computer Interaction
+cs.GT,Computer Science and Game Theory
+cs.GR,Graphics
+cs.GL,General Literature
+cs.FL,Formal Languages and Automata Theory
+cs.ET,Emerging Technologies
+cs.DS,Data Structures and Algorithms
+cs.DM,Discrete Mathematics
+cs.DL,Digital Libraries
+cs.DC,"Distributed, Parallel, and Cluster Computing"
+cs.DB,Databases
+cs.CY,Computers and Society
+cs.CV,Computer Vision and Pattern Recognition
+cs.CR,Cryptography and Security
+cs.CL,Computation and Language
+cs.CG,Computational Geometry
+cs.CE,"Computational Engineering, Finance, and Science"
+cs.CC,Computational Complexity
+cs.AR,Hardware Architecture
+cs.AI,Artificial Intelligence
